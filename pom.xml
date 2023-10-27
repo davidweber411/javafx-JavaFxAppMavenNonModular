@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.8.2</junit.version>
-        <mainclassnameparam>your.groupid.javafxappmavennonmodular.MainApplicationLauncher</mainclassnameparam>
+        <mainclassnameparam>your.groupid.javafxappnonmodular.MainApplicationLauncher</mainclassnameparam>
     </properties>
 
     <dependencies>

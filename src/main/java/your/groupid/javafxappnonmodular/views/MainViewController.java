@@ -1,4 +1,4 @@
-package your.groupid.javafxappmavennonmodular.views;
+package your.groupid.javafxappnonmodular.views;
 
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;

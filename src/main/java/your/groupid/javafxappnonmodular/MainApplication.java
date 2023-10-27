@@ -1,4 +1,4 @@
-package your.groupid.javafxappmavennonmodular;
+package your.groupid.javafxappnonmodular;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

@@ -1,4 +1,4 @@
-package your.groupid.javafxappmavennonmodular;
+package your.groupid.javafxappnonmodular;
 
 /**
  * This external launcher class is needed for starting JavaFx, because Java does not like it, if your main class extends from another class.
